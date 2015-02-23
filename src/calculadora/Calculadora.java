@@ -144,6 +144,7 @@ pantalla.setText(String.valueOf(resultado_total));
 public static void main(String[] args) {
 Calculadora cal = new Calculadora();
 cal.setVisible(true);
+    System.out.println("Test");
 }
 }
 
